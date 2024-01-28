@@ -1,6 +1,6 @@
 # Cloudymos Organization
 
-Cloudymos is a portal created with the aim of being the epicenter of technology. It brings together the best resources to ease your journey in the world of the cloud. Here's what you can expect:
+Cloudymos is a portal created with the aim of being the epicenter of technology. It brings together the best resources to ease your journey in the world of the cloud.
 
 ## What you can expect:
 
